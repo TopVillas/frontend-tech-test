@@ -1,0 +1,22 @@
+[
+  {
+    "id": "44ebdc61-b9f8-45ff-9600-e52822e29364",
+    "name": "WiFi"
+  },
+  {
+    "id": "1b5ccd76-e1ee-455d-b166-f5b059014df2",
+    "name": "Parking"
+  },
+  {
+    "id": "cf969a10-c89c-47c9-951a-74b625d6f4af",
+    "name": "Air Conditioning"
+  },
+  {
+    "id": "33f307fc-d909-40fd-9ddd-d31c729c2b39",
+    "name": "Home Theater"
+  },
+  {
+    "id": "32eaf63b-9a73-46c5-8fa3-c49575dca2de",
+    "name": "Pet Friendly"
+  }
+]
